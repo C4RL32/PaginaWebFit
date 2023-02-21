@@ -10,6 +10,8 @@ html{
 
 }
 body{
+    padding: 0%;
+    margin: 0%;
     font-size: 16px;
     font-family: 'Bitter', serif;
 
@@ -34,6 +36,27 @@ body{
     background-image: url(../img/1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+h1{
+    background-color: red;
+    width: 50%;
+    
+}
+
+.header{
+    background-color: red;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    padding: 25px;
+    
+}
+
+.participantes{
+
+    width: 90px;
+    height: 60px;
 }
 
 
